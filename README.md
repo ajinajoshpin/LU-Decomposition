@@ -8,10 +8,19 @@ To write a program to find the LU Decomposition of a matrix.
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+## step 1:
+define the package as scipy.linalg import lu.
+
+## step 2:
+get input from user and print and L and U matrix by 'print'.
+
+## step3:
+Define a package as "from scipy.linalg import lu_factor,lu_solve" and create the variable as 'X' include the
+package in that variable .
+
+## step 4:
+
+print the variable 'X'
 
 ## Program:
 (i) To find the L and U matrix
